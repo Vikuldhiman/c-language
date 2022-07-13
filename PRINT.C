@@ -1,4 +1,4 @@
-/* INPUT TWO NUMBERS AND OUTPUT TWO NUMBERS */
+// INPUT TWO NUMBERS AND OUTPUT TWO NUMBERS 
 #include<stdio.h>
 #include<conio.h>
 int main()
