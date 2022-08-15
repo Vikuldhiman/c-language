@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a,b,n=1;
+printf("enter number a");
+scanf("%d",&a);
+while(n<=10)
+{
+b=a*n;
+printf(%d "*" %d "=" %d,a,n,b);
+n++;
+}
+getch();
+return 0;
+}
