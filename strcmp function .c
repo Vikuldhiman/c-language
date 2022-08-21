@@ -6,6 +6,6 @@ int main()
   char str[]="vikhul";
   char stre[]="vikul";
   int value = strcmp(str,stre);
-  printf("%s",value);
+  printf("%d",value);
   getch();
 }
