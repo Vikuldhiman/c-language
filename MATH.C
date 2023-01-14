@@ -33,6 +33,7 @@ else if(c==4)
 x=a/b;
 printf("The DIVISION of %d and %d is = %d",a,b,x);
 }
+  
 else
 {
 printf("\n YOU ENTER THE WRONG CHOICE \n");
